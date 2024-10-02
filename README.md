@@ -15,7 +15,8 @@ Una de las cosas que diferenciaba Google de los otros buscadores como **_Altavis
 
 
 ### Video explicación:
-[https://youtu.be/gaH2GLoQK1c?si=JpVk2JEApb0L3_bC]("Expliación creacion de Google.")
+[Link](https://youtu.be/gaH2GLoQK1c?si=JpVk2JEApb0L3_bC "Expliación creacion de Google")
+
 
 
 
