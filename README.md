@@ -2,8 +2,9 @@
 <p align="center" style=color: blue; font-family: Times New Roman;">
 HISTORIA DE LA WEB
 </p>
-<H1/>
+</H1>
 <H3>
 <p style=Color: red; 
 GOOGLE
-<H3/>
+</p>
+</H3>
