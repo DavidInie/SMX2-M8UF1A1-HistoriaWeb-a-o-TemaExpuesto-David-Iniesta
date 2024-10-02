@@ -4,7 +4,5 @@ HISTORIA DE LA WEB
 </p>
 </H1>
 <H3>
-<p style=Color: red; 
 GOOGLE
-</p>
 </H3>
