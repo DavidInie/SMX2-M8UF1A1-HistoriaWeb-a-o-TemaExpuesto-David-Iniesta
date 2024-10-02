@@ -7,18 +7,16 @@ Una de las cosas que diferenciaba Google de los otros buscadores como **_Altavis
 
 
 ### Fundadores de google:
-<div align="center">
-  <img src="https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla_2-10-2024_123210_.jpeg" alt="Larry Page y Sergey Brin" width="650">
-</div>
+![Fundadores de Google](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla_2-10-2024_123210_.jpeg "Fundadores Google")
 
 
 ### Primer logo:
-<div align="center">
-  <img src="https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-David-Iniesta/blob/main/OIP%20(1).jpeg" alt="Larry Page y Sergey Brin" width="650">
-</div>
+![Logo](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-David-Iniesta/blob/main/OIP%20(1).jpeg "Primer logo de Google")
+
 
 ### Video explicación:
 [https://youtu.be/gaH2GLoQK1c?si=JpVk2JEApb0L3_bC]("Expliación creacion de Google.")
+
 
 
 
