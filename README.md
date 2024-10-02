@@ -1,2 +1,3 @@
-# SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-David-Iniesta
-Historia de la web.
+<p align="center" style="color: blue; font-family: 'Times New Roman', sans-serif;">
+ HISTORIA DE LA WEB.
+</p>
